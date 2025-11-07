@@ -1,5 +1,6 @@
 # amazon_bookselling-
 Amazon best selling books 
+<img width="1007" height="698" alt="image" src="https://github.com/user-attachments/assets/ae64d5f0-42b1-486b-ad34-de423854d195" />
 
 ## Project overview
 
